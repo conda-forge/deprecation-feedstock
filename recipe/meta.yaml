@@ -23,6 +23,7 @@ requirements:
   build:
     - python
     - setuptools
+    - packaging
 
   run:
     - python
