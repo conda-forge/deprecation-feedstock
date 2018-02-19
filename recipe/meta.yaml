@@ -2,7 +2,7 @@
 {% set version = "1.2" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "fa5d6c28b6f4cec8eb6c1a40d327bb2a5eb7f0e57e17f1be29e2623362c055eb" %}
+{% set hash = "f3290b162abfe234d8a6b14dcff276efc513a5a324f0a51ac57dec7a718ae541" %}
 {% set build = 0 %}
 
 package:
