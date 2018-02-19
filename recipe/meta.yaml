@@ -1,8 +1,8 @@
 {% set name = "deprecation" %}
-{% set version = "1.0.1" %}
+{% set version = "1.2" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "b9bff5cc91f601ef2a8a0200bc6cde3f18a48c2ed3d1ecbfc16076b14b3ad935" %}
+{% set hash = "fa5d6c28b6f4cec8eb6c1a40d327bb2a5eb7f0e57e17f1be29e2623362c055eb" %}
 {% set build = 0 %}
 
 package:
@@ -43,3 +43,4 @@ about:
 extra:
   recipe-maintainers:
     - pmlandwehr
+    - kmuehlbauer
