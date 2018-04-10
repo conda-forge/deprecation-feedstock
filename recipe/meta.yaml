@@ -1,8 +1,8 @@
 {% set name = "deprecation" %}
-{% set version = "2.0" %}
+{% set version = "2.0.1" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "492b1ff401242ddb33c4d0ee6a27b98b6cef825453f1a1339315d861503ce012" %}
+{% set hash = "72111aae0aa4b3706553e83f37111a10a5c83e68649f1d8796db4c894130ba36" %}
 {% set build = 0 %}
 
 package:
@@ -16,7 +16,7 @@ source:
 
 build:
   noarch: python
-  number: {{ build }}
+  number: 0
   script: python setup.py install --single-version-externally-managed --record=record.txt
 
 requirements:
