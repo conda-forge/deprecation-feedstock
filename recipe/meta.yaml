@@ -1,8 +1,8 @@
 {% set name = "deprecation" %}
-{% set version = "2.0.1" %}
+{% set version = "2.0.2" %}
 {% set bundle = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash = "72111aae0aa4b3706553e83f37111a10a5c83e68649f1d8796db4c894130ba36" %}
+{% set hash = "e8d0dc5a17d7d551730e5f23ff3a53fc9e438364b9efb47d41c3e9b05522eabe" %}
 {% set build = 0 %}
 
 package:
