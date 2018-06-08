@@ -14,12 +14,15 @@ Summary: A library to handle automated deprecations
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/deprecation-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/deprecation-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/deprecation-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/deprecation-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deprecation/badges/version.svg)](https://anaconda.org/conda-forge/deprecation)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/deprecation/badges/downloads.svg)](https://anaconda.org/conda-forge/deprecation)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-deprecation-green.svg)](https://anaconda.org/conda-forge/deprecation) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/deprecation.svg)](https://anaconda.org/conda-forge/deprecation) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/deprecation.svg)](https://anaconda.org/conda-forge/deprecation) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/deprecation.svg)](https://anaconda.org/conda-forge/deprecation) |
 
 Installing deprecation
 ======================
